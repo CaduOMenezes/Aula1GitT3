@@ -9,3 +9,4 @@ git push - atualiza o repositório
 
 git add - adiciona as alterações para serem comitadas
 
+a orden seria: alteração > git add > git commit > git push
