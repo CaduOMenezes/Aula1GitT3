@@ -6,3 +6,6 @@ Git init - inicia um repositório local
 git commit -m "mensagem" - salva o checkpoint
 
 git push - atualiza o repositório
+
+git add - adiciona as alterações para serem comitadas
+
